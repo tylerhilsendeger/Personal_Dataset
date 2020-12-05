@@ -1,4 +1,4 @@
-# Personal_Dataset
+# MLB Through the Years
 
 
 # Motivation
@@ -19,3 +19,5 @@ This box plot is a visualization of each players amount of home runs hit per sea
 
 # Description of Code and Materials
 The visualizations of this data can be found in the [Images](https://github.com/tylerhilsendeger/Personal_Dataset/tree/master/Images) folder. The raw data downloaded as a .csv from Baseball Reference is located in the [RawData](https://github.com/tylerhilsendeger/Personal_Dataset/tree/master/RawData) folder. I applied some processing steps to each of the players' data sets to get a workable spreadsheet. These final data sets can be found in the [ProcessedData](https://github.com/tylerhilsendeger/Personal_Dataset/tree/master/ProcessedData) folder.
+
+# References
