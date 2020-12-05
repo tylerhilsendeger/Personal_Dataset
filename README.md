@@ -1,7 +1,7 @@
 # MLB Through the Years
 
 
-# Motivation
+## Motivation
 Ever since I can remember, baseball has always been my life. I have been a fan since I could understand the game, and a player since I could grip a bat. I am far from the only kid like this in America, though. Baseball has ran through the blood of Americans since the late 1800's. Over the course of this time, the game has evolved time and time again, creating some very clear trends in player statistics. Living in the time we do now, it is no seceret that pretty much every player is trying to hit a home run most times they are at bat. Has it always been like this, though? How has the game really shifted throughout the last roughly 150 years? There are definitely trends to be found, and my goal was to illustrate how the offensive goals of baseball have shifted since the early days of the game.
 
 # Data Source
